@@ -1,0 +1,19 @@
+* {
+    font-family: "Palanquin";
+    color:yellow;
+    background-color:#880e4f;
+}
+.container h1{
+    max-width: 500px;
+    padding:20px;
+    margin:0 auto;
+    color:#ffebee ;
+}
+.container h2{
+    color:white;
+}
+.club {
+    max-width: 300px;
+    padding:20px;
+    margin:0 auto;
+}
